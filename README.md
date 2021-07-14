@@ -1,9 +1,9 @@
-# Network-analysis-for-metagenomic-aseembled-data
+# Network-analysis-for-metagenomic-assembled-data
 Drected-networks-for-analyzing-genes-collocations-in-the-same-contigs
 
 # Date: July 14, 2021
 # Author: Jangwoo Lee (Eawag & ETH Zurich)
-## Related Publication: Wastewater bypass is a major temporary point-source of antibiotic resistance genes and multi-resistance risk factors in a Swiss river(in preparation)
+## Related Publication: Wastewater bypass is a major temporary point-source of antibiotic resistance genes and multi-resistance risk factors in a Swiss river (in preparation)
 
 # Introduction
 -Given that two genes are co-located in the same assembled contig, a directed network could be produced from two vertices (two co-located genes) and the edge information which could link the relationship between them. In this study, we defined the edge as “Co-occurrence frequency”, e.g., the proportion of the number of contigs that contain both genes (A and B) to the number of contigs containing the gene A.
