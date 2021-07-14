@@ -1,0 +1,28 @@
+Class,Color,Label
+aminoglycoside,#8DD3C7,aminoglycoside
+unclassified,black,unclassified
+sulfonamide; sulfone,#BEBADA,sulfonamide; sulfone
+integron integrase class 1,#FB8072,integron integrase class 1
+phenicol,#80B1D3,phenicol
+diaminopyrimidine,#FDB462,diaminopyrimidine
+cephalosporin; penam,#B3DE69,"beta-lactam_2 ,3"
+macrolide,#FCCDE5,macrolide
+glycylcycline; tetracycline,#D9D9D9,glycylcycline; tetracycline
+tetracycline,#A6CEE3,tetracycline
+lincosamide; macrolide; oxazolidinone; phenicol; pleuromutilin; streptogramin; tetracycline,#1F78B4,lincosamide; macrolide; oxazolidinone; phenicol; pleuromutilin; streptogramin; tetracycline
+fluoroquinolone,white,fluoroquinolone
+carbapenem; cephalosporin; penam,#33A02C,beta-lactam_1-3
+aminoglycoside; fluoroquinolone,#FB9A99,aminoglycoside; fluoroquinolone
+cephalosporin; monobactam,#E31A1C,"beta-lactam_2 ,4"
+cephalosporin; cephamycin; fluoroquinolone; penam,#FDBF6F,"beta-lactam_2, 3, 5; fluoroquinolone"
+cephalosporin; cephamycin; fluoroquinolone; glycylcycline; penam; phenicol; rifamycin; tetracycline; triclosan,#FF7F00,"beta-lactam_2, 3, 5; fluoroquinolone; glycylcycline; phenicol; rifamycin; tetracycline; triclosan"
+fluoroquinolone; macrolide; penam; tetracycline,#CAB2D6,fluoroquinolone; macrolide; beta-lactam_3; tetracycline
+nucleoside,#6A3D9A,nucleoside
+lincosamide; macrolide; streptogramin,#FFFF99,lincosamide; macrolide; streptogramin
+aminocoumarin,#B15928,aminocoumarin
+aminocoumarin; aminoglycoside,#FBB4AE,aminocoumarin; aminoglycoside
+aminoglycoside; carbapenem; cephalosporin; fluoroquinolone; macrolide; penam; penem; peptide,#B3CDE3,aminoglycoside; beta-lactam_1-3; fluoroquinolone; macrolide; peptide
+cephalosporin; monobactam; penam,#CCEBC5,beta-lactam_2-4
+fluoroquinolone; macrolide; penam,#DECBE4,fluoroquinolone; macrolide; beta-lactam_3
+diaminopyrimidine; fluoroquinolone; phenicol,#FED9A6,diaminopyrimidine; fluoroquinolone; phenicol
+rifamycin,#FFFFCC,rifamycin

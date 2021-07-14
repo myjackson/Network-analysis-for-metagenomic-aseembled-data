@@ -1,0 +1,75 @@
+Vertices,Labels,Class,Color
+aadA12,aadA12,aminoglycoside antibiotic,#8DD3C7
+qacEdelta1,qacE,unclassified,black
+sul1,sul1,sulfonamide antibiotic;sulfone antibiotic,#BEBADA
+aadA23,aadA23,aminoglycoside antibiotic,#8DD3C7
+intI1,intI1,intI1,#FB8072
+catB8,catB8,phenicol antibiotic,#80B1D3
+dfrA14,dfrA14,diaminopyrimidine antibiotic,#FDB462
+ANT(3'')-IIa,ant(3'')-IIa,aminoglycoside antibiotic,#8DD3C7
+aadA8b,aadA8b,aminoglycoside antibiotic,#8DD3C7
+OXA-4,OXA-4,cephalosporin;penam,#B3DE69
+OXA-224,OXA-224,cephalosporin;penam,#B3DE69
+OXA-205,OXA-205,cephalosporin;penam,#B3DE69
+aadA17,aadA17,aminoglycoside antibiotic,#8DD3C7
+OXA-9,OXA-9,cephalosporin;penam,#B3DE69
+aadA6,aadA6,aminoglycoside antibiotic,#8DD3C7
+OXA-119,OXA-119,cephalosporin;penam,#B3DE69
+aadS,aadS,aminoglycoside antibiotic,#8DD3C7
+EreD,ereD,macrolide antibiotic,#FCCDE5
+tetX,tetX,glycylcycline;tetracycline antibiotic,#D9D9D9
+Tet(X5),tet(X5),tetracycline antibiotic,#A6CEE3
+mefC,mefC,macrolide antibiotic,#FCCDE5
+OXA-34,OXA-34,cephalosporin;penam,#B3DE69
+catB2,catB2,phenicol antibiotic,#80B1D3
+tet(39),tet(39),tetracycline antibiotic,#A6CEE3
+mphE,mphE,macrolide antibiotic,#FCCDE5
+msrE,msrE,lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic;tetracycline antibiotic,#1F78B4
+qacH,qacH,fluoroquinolone antibiotic,white
+AAC(6')-Ib9,aac(6')-Ib,aminoglycoside antibiotic,#8DD3C7
+cmlA5,cmlA5,phenicol antibiotic,#80B1D3
+OXA-2,OXA-2,carbapenem;cephalosporin;penam,#33A02C
+QnrVC4,qnrVC4,fluoroquinolone antibiotic,white
+OXA-10,OXA-10,cephalosporin;penam,#B3DE69
+AAC(6')-Ib-cr,aac(6')-Ib-cr,aminoglycoside antibiotic;fluoroquinolone antibiotic,#FB9A99
+OXA-14,OXA-14,cephalosporin;penam,#B3DE69
+AAC(6')-Ib7,aac(6')-Ib7,aminoglycoside antibiotic,#8DD3C7
+catB11,catB11,phenicol antibiotic,#80B1D3
+ANT(2'')-Ia,ant(2'')-Ia,aminoglycoside antibiotic,#8DD3C7
+VEB-6,VEB-6,cephalosporin;monobactam,#E31A1C
+VEB-9,VEB-9,cephalosporin;monobactam,#E31A1C
+aadA5,aadA5,aminoglycoside antibiotic,#8DD3C7
+OXA-101,OXA-101,cephalosporin;penam,#B3DE69
+QnrVC5,qnrVC5,fluoroquinolone antibiotic,white
+catB3,catB3,phenicol antibiotic,#80B1D3
+AAC(6')-Ib,aac(6')-Ib,aminoglycoside antibiotic,#8DD3C7
+acrF,acrF,cephalosporin;cephamycin;fluoroquinolone antibiotic;penam,#FDBF6F
+acrE,acrE,cephalosporin;cephamycin;fluoroquinolone antibiotic;penam,#FDBF6F
+acrS,acrS,cephalosporin;cephamycin;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic;triclosan,#FF7F00
+OXA-21,OXA-21,cephalosporin;penam,#B3DE69
+OXA-663,OXA-663,cephalosporin;penam,#B3DE69
+OXA-17,OXA-17,cephalosporin;penam,#B3DE69
+evgA,evgA,fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic,#CAB2D6
+emrK,emrK,tetracycline antibiotic,#A6CEE3
+emrY,emrY,tetracycline antibiotic,#A6CEE3
+SAT-4,sat-4,nucleoside antibiotic,#6A3D9A
+APH(3')-IIIa,aph(3')-IIIa,aminoglycoside antibiotic,#8DD3C7
+ErmF,ermF,lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic,#FFFF99
+mdtC,mdtC,aminocoumarin antibiotic,#B15928
+baeS,baeS,aminocoumarin antibiotic;aminoglycoside antibiotic,#FBB4AE
+baeR,baeR,aminocoumarin antibiotic;aminoglycoside antibiotic,#FBB4AE
+Klebsiella pneumoniae KpnH,kpnH,aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic,#B3CDE3
+emrA,emrA,fluoroquinolone antibiotic,white
+emrR,emrR,fluoroquinolone antibiotic,white
+OXA-226,OXA-226,cephalosporin;penam,#B3DE69
+BEL-1,BEL-1,cephalosporin;monobactam;penam,#CCEBC5
+aadA,aadA,aminoglycoside antibiotic,#8DD3C7
+CRP,CRP,fluoroquinolone antibiotic;macrolide antibiotic;penam,#DECBE4
+rsmA,rsmA,diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic,#FED9A6
+OXA-129,OXA-129,cephalosporin;penam,#B3DE69
+aadA11,aadA11,aminoglycoside antibiotic,#8DD3C7
+aadA10,aadA10,aminoglycoside antibiotic,#8DD3C7
+VEB-1,VEB-1,cephalosporin;monobactam,#E31A1C
+aadA6/aadA10,aadA6/aadA10,aminoglycoside antibiotic,#8DD3C7
+arr-3,arr-3,rifamycin antibiotic,#FFFFCC
+aadA13,aadA13,aminoglycoside antibiotic,#8DD3C7
