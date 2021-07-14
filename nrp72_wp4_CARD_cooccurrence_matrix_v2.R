@@ -1,6 +1,6 @@
 library(igraph)
 
-setwd('Q:/Abteilungsprojekte/Surf/surf-KB/Mic-Ecology/02_PROJECTS/1. Antibiotic resistance/2. Jangwoo PhD/1_Project/4_NRP72_WP4/3_Data Analysis/2_Rcodes/8. NetworkAnalysis') # to set a working directory
+setwd('Q:/.../8. NetworkAnalysis') # to set a working directory
 source("functions.R")
 data_folder = "1_Data"
 graphic_infos = "2_Graphic_Infos"
