@@ -1,5 +1,5 @@
 # Network-analysis-for-metagenomic-assembled-data
-Drected-networks-for-analyzing-genes-colocations-in-the-same-contigs
+Drected networks for analyzing co-located genes in the same contigs
 
 # Date: July 14, 2021
 # Author: Jangwoo Lee (Eawag & ETH Zurich)
